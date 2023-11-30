@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mateus-Tx
-- 👀 I’m interested in ...
+- 👀 I’m interested in me tornar um programador Front-End
 - 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
