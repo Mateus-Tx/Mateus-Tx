@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Mateus-Tx
-- 👀 I’m interested in me tornar um programador Front-End
+- 👀 I’m interested in m
+-  tornar um programador Front-End
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate em criação de sites
 - 📫 How to reach me. Instagram @mateus_txs
